@@ -1,4 +1,4 @@
-import { transactions } from "../index.js"
+import { transactions } from "../public/index.js"
 import { renderTransaction } from "./renderTransaction.js"
 import { updateBalance } from "./updateBalance.js"
 
