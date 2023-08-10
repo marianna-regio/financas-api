@@ -1,24 +1,24 @@
 {
   "transactions": [
     {
-      "name": "Aluguel",
-      "amount": -600,
-      "id": 3
-    },
-    {
-      "name": "Conta de luz",
-      "amount": -200,
-      "id": 5
-    },
-    {
       "name": "Pagamento",
-      "amount": 3001,
+      "amount": 3000,
       "id": 6
     },
     {
-      "name": "Salário",
-      "amount": 5000,
+      "name": "Freela",
+      "amount": 250,
       "id": 7
+    },
+    {
+      "name": "Lanche",
+      "amount": -30,
+      "id": 8
+    },
+    {
+      "name": "Cinema",
+      "amount": -50,
+      "id": 9
     }
   ]
 }

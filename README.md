@@ -35,7 +35,7 @@ O script "server" roda o json-server e fica observando por mudanças no arquivo 
 ## ⚙️ Funcionamento
 
 
-- Quando a página é carregada, a função setup() é chamada para buscar as transações existentes no back-end json-server, renderizá-las na página e atualizar o saldo.
+- Quando a página é carregada, a função setup() é chamada para buscar as transações existentes no json-server, renderizá-las na página e atualizar o saldo.
 
 - A função saveTransaction(ev) é acionada quando você envia o formulário de transação. Ele verifica se você está editando uma transação existente ou criando uma nova. Para edição, atualiza a transação no servidor e atualiza o saldo. Para criar, adiciona a nova transação ao servidor e atualiza o saldo.
 
