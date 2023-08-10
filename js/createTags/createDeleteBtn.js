@@ -1,4 +1,4 @@
-import { transactions } from "../../index.js"
+import { transactions } from "../../public/index.js"
 import {updateBalance} from "../updateBalance.js"
 
 export function createDeleteTransactionBtn(id) {

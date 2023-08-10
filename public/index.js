@@ -1,6 +1,6 @@
 export const transactions = []
-import { setup } from "./js/setup.js"
-import {saveTransaction} from "./js/saveTransaction.js"
+import { setup } from "../js/setup.js"
+import {saveTransaction} from "../js/saveTransaction.js"
 
 
 document.addEventListener('DOMContentLoaded', setup())

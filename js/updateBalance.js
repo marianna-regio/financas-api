@@ -1,4 +1,4 @@
-import { transactions } from "../index.js"
+import { transactions } from "../public/index.js"
 
 export function updateBalance() {
     const balanceSpan = document.querySelector("#balance")
