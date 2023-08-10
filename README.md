@@ -5,6 +5,9 @@ Esta é uma aplicação da web simples, para fins educacionais construído usand
 Você pode adicionar, editar ou excluir transações, e o aplicativo calcula seu saldo somando receitas positivas e subtraindo despesas negativas. 
 A aplicação usa a biblioteca json-server para simular um back-end e armazenar transações financeiras.
 
+![image](https://github.com/marianna-regio/financas-api/assets/126937060/1cd60c19-0e35-4206-9f14-a480a53d0c13)
+
+
 
 ### Rodando a aplicação
 
